@@ -48,6 +48,7 @@ builds.
 | 55U67LEVS (55U6LE series) | EU_A | MTK9603 | U09.60 | V0000.09.60A.Q0707 (55U67LEVS) | ? | Chromium 111.5563.5.1 "Odin" (armv7l) | untested | achieved | [unit owner](https://github.com/carteakey/alvidaa) |
 | 65E86GEVS (serial type 65E8GE) | EM_B | MTK9618 (mt5879; aarch64 kernel, armhf userland) | U09.09 | V0000.09.09O.P0930 | ? | Chromium 111 "odin" (api 3.0.1) | untested | achieved | [@noctonca](https://github.com/noctonca) |
 | 65A70LAVT (serial type 65A7NA) | AU (EM_C, countryID AUS) | MTK9603 (MT5896) | U09.60 | V0000.09.60A.Q0707 (65A70LAVT) | ? | Chromium 111.5563.5.1 "Odin" (armv7l) | untested | achieved | [u/sl3yr84](https://reddit.com/user/sl3yr84) |
+| 75E7KQ Pro (internal model ID unconfirmed) | AT / EU (internal region unconfirmed) | MTK9618 (aarch64 kernel 5.4.302, 32-bit ARM userland) | U09.62 | V0000.09.62C.Q0924 | ? (not tested) | Chromium 111 "odin" (aarch64 UA) | untested (stock launcher operational; replacement planned) | achieved (verified uid 0, CapEff 0000003fffffffff, key-only Dropbear SSH on :8008 via fetcher → superwatch 82 → opkg postinst) | unit owner (2026-11-21) |
 <!-- INVENTORY:END -->
 
 ## What each token means on each unit
